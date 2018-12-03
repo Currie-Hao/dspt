@@ -8,7 +8,7 @@
  ## 1.git bash中设置：ssh-keygen -t rsa -C "你的邮箱"
  ## 2.一路回车，没有其他操作
  ## 3.在用户目录下生成.ssh文件夹，找到公钥和私钥
- ##（id_rsa id_rsa.pub）
+ ## （id_rsa id_rsa.pub）
  ## 4.将公钥的内容复制，进入github网站，将公钥添加进去
  #
  #
