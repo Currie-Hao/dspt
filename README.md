@@ -25,3 +25,10 @@
  ### git pull 拉取
  ### git push -u origin master 提交到远程仓库（以后提交仓库不用写-u）
  ### git merge 另一个分支名  合并分支
+ 
+ ## 远程分支的合并:
+ ### 1.git checkout dev 切换分支，如果没有，创建并切换分支
+ ### 2.git push origin dev 从远程数据中，拉取分支数据
+ ### 3.git checkout master 切换到主分支。
+ ### 4.git merge dev  进行合并。
+ ### 5.git push origin master 将数据发送到主分支
