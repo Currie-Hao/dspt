@@ -28,7 +28,7 @@
  
  ## 远程分支的合并:
  ### 1.git checkout dev 切换分支，如果没有，创建并切换分支
- ### 2.git push origin dev 从远程数据中，拉取分支数据
+ ### 2.git pull origin dev 从远程数据中，拉取分支数据
  ### 3.git checkout master 切换到主分支。
  ### 4.git merge dev  进行合并。
  ### 5.git push origin master 将数据发送到主分支
